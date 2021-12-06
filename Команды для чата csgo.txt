@@ -1,0 +1,4 @@
+playerradio Radio.WePlanted " [ник] has opened a container and found: ★ StatTrak™ Karambit | Убийство"
+
+
+playerradio Radio.WePlanted "    [ник] был навсегда заблокирован на серверах CS:GO  "
